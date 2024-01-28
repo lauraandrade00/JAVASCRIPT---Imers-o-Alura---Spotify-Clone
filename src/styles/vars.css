@@ -3,7 +3,14 @@
   --font-dm-sans: "DM Sans", sans-serif;
 
   /* COLORS */
-  --bg-icon: "#131313";
-  --bg-arrow-color: rgba(0, 0, 0, 0.7)
-  --bg-search: "#242424"
+  --text-base-dark: #000;
+  --text-base-light: #fff;
+
+  --bg-icon: #131313;
+  --bg-arrow-color: rgba(0, 0, 0, 0.7);
+  --bg-search: #242424;
+
+  /* SIZES */
+  --grid-gap: 24px;
+  --column-count: 5;
 }
