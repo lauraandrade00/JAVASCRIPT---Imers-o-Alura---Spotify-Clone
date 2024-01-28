@@ -1,7 +1,7 @@
 
 # Clone do Spotify
 
-O projeto consiste em aplicar os conhecimentos em CSS, Html e JavaScript para criar uma página inspirada a tela inicial do Spotify. Toda a jornada para desenvolvimento foi feita em conjunto com a semana de Imersão da Alura, contando com participantes pertinentes no mundo do desenvolvimento front-end.
+O projeto consiste em aplicar os conhecimentos em CSS, Html e JavaScript para criar uma página inspirada na tela inicial do Spotify. Toda a jornada para desenvolvimento foi feita em conjunto com a semana de Imersão da Alura, contando com participantes pertinentes no mundo do desenvolvimento front-end.
 
 
 ## Referência
